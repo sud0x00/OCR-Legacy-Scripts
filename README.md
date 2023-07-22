@@ -1,2 +1,4 @@
 # OCR-Legacy-Scripts
-I'll dump all the scripts which were created which are old / useless at the moment. 
+Old scripts created during the OCR Project , out of which some aren't working
+
+I'm not fixing errors even if I find any , hence legacy....
